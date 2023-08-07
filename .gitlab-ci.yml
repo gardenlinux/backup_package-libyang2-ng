@@ -3,6 +3,6 @@ include:
   file: pipeline/pipeline-git.yml
 
 variables:
-  SOURCE_NAME: libyang
+  SOURCE_NAME: libyang2
   SOURCE_REPO: https://github.com/CESNET/libyang/ 
   BUILD_ARCH_ALL: 'true'
