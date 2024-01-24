@@ -1,6 +1,0 @@
-Tests: yanglint
-Depends: gzip,
-         libyang2-tools
-
-Tests: yangre
-Depends: libyang2-tools
